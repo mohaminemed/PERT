@@ -1,0 +1,7 @@
+A,4;Ant,rien;Succ,C,D
+B,1;Ant,rien;Succ,E
+C,6;Ant,A;Succ,F
+D,2;Ant,A;Succ,G
+E,7;Ant,B;Succ,G
+F,3;Ant,C;Succ,rien
+G,4;Ant,D,E;Succ,rien

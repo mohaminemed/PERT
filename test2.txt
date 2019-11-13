@@ -1,0 +1,13 @@
+A,10;Ant,rien;Succ,B,F,K,L
+B,7;Ant,A;Succ,C,M
+C,4;Ant,B;Succ,D
+D,3;Ant,C,G;Succ,E
+E,6;Ant,D,H,K,M;Succ,rien
+F,5;Ant,A;Succ,G,H,I
+G,5;Ant,F;Succ,D
+H,9;Ant,F;Succ,E
+I,4;Ant,F;Succ,J
+J,4;Ant,I,L;Succ,rien
+K,12;Ant,A;Succ,E
+L,14;Ant,A;Succ,J
+M,8;Ant,B;Succ,E
